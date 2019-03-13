@@ -1,4 +1,5 @@
-# Groovy/Jenkins classes to communicate with commercial cloud services
+# jenkins-cloud-cli
+Groovy/Jenkins classes to communicate with commercial cloud services
 
 
 ## AWS CLI
